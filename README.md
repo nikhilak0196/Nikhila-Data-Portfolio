@@ -2,7 +2,7 @@
 Hi there! This documentation is like a quick snapshot of my project in the data field, showing off my skills and know-how in this area.
 
 **Table of Contens :**
-- [Data Engineering](https://github.com/nikhilak0196/final-project-fraud-transaction-pipeline)
+- [Data Engineering] (https://github.com/nikhilak0196/Nikhila-Data-Portfolio)
 - [Python: Data Analysis and Machine Learning](https://github.com/nikhilak0196/HCI-vix-project)
 - [SQL](https://github.com/nikhila0196/Nikhila-Data-Portofolio#-sqlg)
 - [Dashboard](https://github.com/faizns/Faizs-Data-Portofolio#-dashboard)
