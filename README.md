@@ -2,7 +2,7 @@
 Hi there! This documentation is like a quick snapshot of my project in the data field, showing off my skills and know-how in this area.
 
 **Table of Contens :**
-- [Data Engineering](https://github.com/nikhila/Nikhila-Data-Portofolio#-data-ngineering)
+- [Data Engineering](https://github.com/nikhilak0196/final-project-fraud-transaction-pipeline)
 - [Python: Data Analysis and Machine Learning](https://github.com/faizns/Faizs-Data-Portofolio#-python:-data-analysis-and-machine-learning)
 - [SQL](https://github.com/faizns/Faizs-Data-Portofolio#-sqlg)
 - [Dashboard](https://github.com/faizns/Faizs-Data-Portofolio#-dashboard)
