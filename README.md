@@ -3,7 +3,7 @@ Hi there! This documentation is like a quick snapshot of my project in the data 
 
 **Table of Contens :**
 - [Data Engineering](https://github.com/nikhilak0196/final-project-fraud-transaction-pipeline)
-- [Python: Data Analysis and Machine Learning](https://github.com/faizns/Faizs-Data-Portofolio#-python:-data-analysis-and-machine-learning)
+- [Python: Data Analysis and Machine Learning](https://github.com/nikhilak0196/HCI-vix-project)
 - [SQL](https://github.com/faizns/Faizs-Data-Portofolio#-sqlg)
 - [Dashboard](https://github.com/faizns/Faizs-Data-Portofolio#-dashboard)
 - [Complated Course and Certification](https://github.com/faizns/Faizs-Data-Portofolio#-complated-course-and-certification)
